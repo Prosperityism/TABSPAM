@@ -1,5 +1,8 @@
 # TABSPAM . py
-epic tab spam
+I did fix this were it works.
 
-am not responible if pc = dead
+Its broken right now and the fix code for it is gone. 
 
+For now you will have to figure it out by yourself.
+
+Goodlucks to all's :)
